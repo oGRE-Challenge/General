@@ -2,5 +2,5 @@
 
 Please bear with us while we develop the account. We will soon share:
 
-*code for data cleaning
-*project-level outputs and analysis code
+- Code for data cleaning
+- Project-level outputs and analysis code
